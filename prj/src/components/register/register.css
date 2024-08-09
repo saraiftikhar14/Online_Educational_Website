@@ -1,0 +1,39 @@
+.register {
+    width: 380px;
+    background: #fff;
+    border: 1px solid #993333;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 8px;
+    align-items: center;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 250px;
+    color: #993333;
+}
+
+.register > input {
+    border-radius: 100px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #993333;
+    margin: 5px 0;
+    padding: 8px 10px;
+    width: 92%;
+    font-size: 15px;
+}
+
+.register > .button {
+    background:#993333;
+    border: 1px solid #993333;
+    color: #fff;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px 0;
+    border-radius: 80px;
+    outline: none;
+    cursor: pointer;
+}
+.button:hover{
+    color:black;
+}

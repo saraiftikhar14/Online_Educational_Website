@@ -1,0 +1,69 @@
+.price .items {
+    padding: 60px;
+    text-align: center;
+}
+
+.price .items h2 {
+    font-size: 14px;
+}
+
+.price h1 {
+    font-size: 40px;
+    margin: 5px 0;
+    color: #993333;
+}
+
+.price p {
+    font-size: 18px;
+    text-align: left;
+    font-weight: 100;
+
+}
+
+.price h1 span {
+    font-size: 15px;
+    margin-right: 5px;
+    color: #000;
+}
+
+.price p {
+    color: rgb(73, 72, 72);
+    margin: 3px 0;
+}
+
+.tag .container {
+    max-width: 700%;
+    border-radius: 5px;
+}
+
+.tag .box {
+    background: #fff;
+    margin-bottom: 20px;
+}
+
+.tag button {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 15px 20px;
+}
+
+.tag h2 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.tag p {
+    padding: 10px;
+}
+
+.tag .accordion {
+    transition: 0.5s;
+}
+
+.tag .accordion:hover {
+    background-color: #993333;
+    color: #fff;
+}
